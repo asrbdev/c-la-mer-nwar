@@ -1,0 +1,22 @@
+{
+  "name": "c-la-mer-nwar",
+  "version": "1.0.0",
+  "description": "Imagine something cool here !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asrbdev/c-la-mer-nwar.git"
+  },
+  "keywords": [
+    "mernwar"
+  ],
+  "author": "asrbdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asrbdev/c-la-mer-nwar/issues"
+  },
+  "homepage": "https://github.com/asrbdev/c-la-mer-nwar#readme"
+}
