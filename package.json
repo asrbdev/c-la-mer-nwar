@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/asrbdev/c-la-mer-nwar/issues"
   },
-  "homepage": "https://github.com/asrbdev/c-la-mer-nwar#readme"
+  "homepage": "https://github.com/asrbdev/c-la-mer-nwar#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
