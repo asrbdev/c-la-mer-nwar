@@ -5,7 +5,7 @@ npm i
 
 2. Lancer le serveur 
 ```bash
-npm run server
+npm start
 ```
 
 <!-- 
