@@ -1,11 +1,16 @@
-- [ ] Créer un TodoListe
-- [ ] Readme pour doc l'utilisation du serveur
-- [ ] feature/Page_Acceuil  
-    - [ ] Implémenter page Accueil
-    - [ ] Rattacher la page d'acceuil à une route  
-    - [ ] Tester la route vers la page d'acceuil  
-- [ ] feature/Page_Erreur
-    - [ ] Implémenter page d'erreur   
-    - [ ] Rattacher la page d'erreur à une route
-    - [ ] Tester la route vers la page d'erreur   
-    - [ ] Checker le TODO en accord avec l'équipe
+- [x] Créer un TodoListe
+- [x] README pour doc l'utilisation du serveur
+- [x] feature/Page_Acceuil  
+    - [x] Implémenter page Accueil
+    - [x] Rattacher la page d'acceuil à une route 
+    - [x] Tester la route vers la page d'acceuil  
+- [x] feature/Page_Erreur
+    - [x] Implémenter page d'erreur   
+    - [x] Rattacher la page d'erreur à une route
+    - [x] Tester la route vers la page d'erreur   
+    - [X] Checker le TODO en accord avec l'équipe
+- [ ] feature/Page_Accueil 
+    - [ ] header
+    - [ ] footer
+    - [ ] Section présentation 
+    - [ ] Section choix massage
